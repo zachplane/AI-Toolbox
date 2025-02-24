@@ -27,7 +27,7 @@ This repo collects and shares essential AI tools.
 
 ### LLMs Applications Tools
 | Name | Description | Links | 
--|-|-
+| ---- | ----------------------------- | --- |
 | ollama | Ollama is an open-source tool that simplifies the deployment of large language models (LLMs) locally. It supports multiple operating systems and offers a rich model library, allowing users to run and test various LLMs in their local environment.|[Github](https://github.com/ollama/ollama) ![GitHub Repo stars](https://img.shields.io/github/stars/ollama/ollama?style=social)|
 | langchain | LangChain is an application framework designed to streamline the development of applications powered by large language models. It provides a standard interface for connecting different LLMs and integrating with other tools and data sources, facilitating the creation of complex workflows.|[Github](https://github.com/langchain-ai/langchain) ![GitHub Repo stars](https://img.shields.io/github/stars/langchain-ai/langchain?style=social)|
 | vLLM | vLLM is a high-performance inference engine focused on efficient processing of large language models. It utilizes innovative techniques like PagedAttention, continuous batching, and CUDA core optimization to significantly enhance LLM inference performance.|[Github](https://github.com/vllm-project/vllm) ![GitHub Repo stars](https://img.shields.io/github/stars/vllm-project/vllm?style=social)|
@@ -36,7 +36,7 @@ This repo collects and shares essential AI tools.
 
 ### ChatBot Tools
 | Name | Description | Links | 
--|-|-
+| ---- | ----------------------------- | --- |
 | ChatGPT | OpenAI's chatgpt | [URL](https://chat.openai.com) |
 | DeepSeek | DeepSeek's AI assistant. |[URL](https://chat.deepseek.com/)|
 | Gemini| Google's AI assistant. |[URL](https://gemini.google.com/) |
